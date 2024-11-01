@@ -116,5 +116,5 @@ If you want to run SecureBank in CTF mode we have also prepared this option. It 
 
 Run  `docker run -d -p 80:80 -p 5000:5000 -p 1080:1080 -e 'AppSettings:Ctf:Enabled=true' -e 'AppSettings:Ctf:Seed=example' -e 'SeedingSettings:Admin=admin@ssrd.io' -e 'SeedingSettings:AdminPassword=admin' ssrd/securebank`
 
-## Custom training
+## Custom training and updated from my pc
 For custom training you can contact us at [training[at]ssrd.io](training@ssrd.io)
